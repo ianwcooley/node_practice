@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ianwcooley/node_practice/issues"
   },
-  "homepage": "https://github.com/ianwcooley/node_practice#readme"
+  "homepage": "https://github.com/ianwcooley/node_practice#readme",
+  "dependencies": {
+    "formidable": "^3.5.2"
+  }
 }
