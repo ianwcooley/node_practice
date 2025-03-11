@@ -1,0 +1,23 @@
+{
+  "name": "node_practice",
+  "version": "1.0.0",
+  "description": "a lil folder for learning and practicing node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianwcooley/node_practice.git"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "ianwcooley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ianwcooley/node_practice/issues"
+  },
+  "homepage": "https://github.com/ianwcooley/node_practice#readme"
+}
